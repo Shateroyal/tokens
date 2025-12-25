@@ -1,0 +1,8 @@
+{
+  "chainId": 137,
+  "address": "0x5b88ca03f7649c7bbb3ea4c7af75a634026e044b",
+  "symbol": "TALAS",
+  "name": "Talas Token",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/Shateroyal/tokens/master/images/0x5b88ca03f7649c7bbb3ea4c7af75a634026e044b.png"
+}
